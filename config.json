@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchealidate",
+        "uuid": 1855707,
+        "checksum": "khtbc"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
